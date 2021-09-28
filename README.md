@@ -1,0 +1,1 @@
+Diabetes predictor using support vector machine classifier
